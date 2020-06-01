@@ -1,0 +1,7 @@
+C:\Users\ola\source\repos\pierwiastek\pierwiastek\bin\Debug\pierwiastek.exe.config
+C:\Users\ola\source\repos\pierwiastek\pierwiastek\bin\Debug\pierwiastek.exe
+C:\Users\ola\source\repos\pierwiastek\pierwiastek\bin\Debug\pierwiastek.pdb
+C:\Users\ola\source\repos\pierwiastek\pierwiastek\obj\Debug\pierwiastek.csprojAssemblyReference.cache
+C:\Users\ola\source\repos\pierwiastek\pierwiastek\obj\Debug\pierwiastek.csproj.CoreCompileInputs.cache
+C:\Users\ola\source\repos\pierwiastek\pierwiastek\obj\Debug\pierwiastek.exe
+C:\Users\ola\source\repos\pierwiastek\pierwiastek\obj\Debug\pierwiastek.pdb
